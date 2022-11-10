@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shibaiv2mint/static/css/main.77d4bd24.chunk.css",
-    "main.js": "/shibaiv2mint/static/js/main.f1cc07a4.chunk.js",
-    "main.js.map": "/shibaiv2mint/static/js/main.f1cc07a4.chunk.js.map",
+    "main.js": "/shibaiv2mint/static/js/main.ff79df6e.chunk.js",
+    "main.js.map": "/shibaiv2mint/static/js/main.ff79df6e.chunk.js.map",
     "runtime-main.js": "/shibaiv2mint/static/js/runtime-main.e62a5299.js",
     "runtime-main.js.map": "/shibaiv2mint/static/js/runtime-main.e62a5299.js.map",
     "static/js/2.cd38fe72.chunk.js": "/shibaiv2mint/static/js/2.cd38fe72.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e62a5299.js",
     "static/js/2.cd38fe72.chunk.js",
     "static/css/main.77d4bd24.chunk.css",
-    "static/js/main.f1cc07a4.chunk.js"
+    "static/js/main.ff79df6e.chunk.js"
   ]
 }
