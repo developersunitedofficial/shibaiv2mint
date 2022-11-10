@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe979D1217fC77364Cfd1ffc4a133A0Bd468aC3b6",
+  "SCAN_LINK": "https://etherscan.io/address/0xe979d1217fc77364cfd1ffc4a133a0bd468ac3b6",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ShibAiV2Pups",
+  "SYMBOL": "Living Ai Pups",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
