@@ -9,10 +9,10 @@
   "NFT_NAME": "ShibAiV2Pups",
   "SYMBOL": "Living Ai Pups",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 150000000000000000,
-  "DISPLAY_COST": 0.15,
+  "WEI_COST": 275000000000000000,
+  "DISPLAY_COST": 0.275,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shibaiv2pups",
   "SHOW_BACKGROUND": true
 }
